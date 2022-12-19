@@ -1,4 +1,13 @@
-<html> 
-<head> Translation Pages </head>
-
-</html>
+<!DOCTYPE htm>
+ <html> 
+  <head> <title>Translation Pages<title></head>
+  <div> 
+   <body>
+    <div class="post"> 
+     <h2>World Toilet Day</h2>
+      <p>...</p>
+      <hr width=75%>
+    </div>
+   </body>
+  </div> 
+ </html>
