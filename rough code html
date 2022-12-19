@@ -3,18 +3,31 @@
   <head> <title>Stories<title></head>
   <div> 
    <body>
+   
     <div class="post"> 
      <h2>World Toilet Day</h2>
       <p>...</p>
       <hr width=75%>
       <div class="post"> 
+      
      <h2>Freedom</h2>
       <p>...</p>
       <hr width=75%>
       <div> 
+      
        <h4>Please leave a reply</h4>
-       <label for
       </div>
+     
+      <div>
+       <label for="name">Name</label>
+        <input type="text" name="Name" placeholder ="your name">
+      </div>
+      
+      <div>
+       <label for = "email">Email</label>
+        <input type="email" name="email" placeholder="wtfishappening@gmail.com">
+      </div>
+     
      </div>
    </body>
   </div> 
