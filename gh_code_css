@@ -1,0 +1,32 @@
+title { 
+        href = ""; color ="white";
+      }
+      
+      <!DOCTYPE html>
+<html>
+<head>
+<style>
+title {
+  background-image: href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1419640303358-44f0d27f48e7%3Fixlib%3Drb-4.0.3%26ixid%3DMnwxMjA3fDB8MHxzZWFyY2h8MTl8fGRhcmslMjBhY2FkZW1pYXxlbnwwfHwwfHw%253D%26w%3D1000%26q%3D80&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdark-academia&tbnid=6xiabMiOe1HDqM&vet=12ahUKEwi7uNH9ioX8AhWAjtgFHdejARMQMygCegUIARCNAQ..i&docid=EKzHDqcaATFwiM&w=1000&h=740&q=books%20dark%20academia%20aestheitic%20unsplash.com&client=opera&ved=2ahUKEwi7uNH9ioX8AhWAjtgFHdejARMQMygCegUIARCNAQ";
+  text-align: centre; 
+  text-color: white;
+      }
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
