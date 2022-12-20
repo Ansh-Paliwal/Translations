@@ -1,23 +1,24 @@
-<!DOCTYPE htm>
+<!DOCTYPE html>
  <html> 
-  <head> <title>Stories<title></head>
+  <head> <title>Stories</title></head>
    
    <div> 
    <body>
    
-    <div class="post"> 
+    <div class="posta"> 
      <h2>World Toilet Day</h2>
       <p>...</p>
       <hr width=75%>
-      <div class="post"> 
-      
-     <h2>Freedom</h2>
-      <p>...</p>
-      <hr width=75%>
-      <div> 
-      
-       <h4>Please leave a reply</h4>
       </div>
+      
+      <div class="postb"> 
+       <h2>Freedom</h2>
+       <p>...</p>
+       <hr width=75%>
+      </div> 
+      <hr>
+       <h6>Please leave a reply</h6>
+     </div>
      
       <div>
        <label for="name">Name</label>
