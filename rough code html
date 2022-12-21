@@ -1,6 +1,7 @@
 <!DOCTYPE html>
  <html> 
-  <head> <h1>Stories</h1></head>
+  <head> <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <h1>Stories</h1></head> /*title of the page*/
    
    <div> 
    <body>
@@ -17,7 +18,7 @@
        <hr width=75%>
       </div> 
       <hr>
-       <h6>Please leave a reply</h6>
+      <footer> <h6>Please leave a reply</h6>
      </div>
      
       <div>
@@ -29,7 +30,7 @@
        <label for = "email">Email</label>
         <input type="email" name="email" placeholder="wtfishappening@gmail.com">
       </div>
-     
+     </footer>
      </div>
    </body>
   </div> 
