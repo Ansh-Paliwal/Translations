@@ -1,20 +1,188 @@
-title { 
-  background-image: url("https://unsplash.com/photos/xUpbQ9GX7SQ");
-  text-align: centre; 
-  text-color: white;
-      }
-body{
-h1 {
+.Title{
+ background-image: url("pexels-sheep-1846422.jpg");
+  } 
+
+
+h1{
+  padding:0px;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+h2{  
+  display:block;
+  margin: 0 auto 0 auto; 
   color: white;
-  text-align: center;
+  font-size:70px;
+  font-family: 'Eczar', serif;
+   }
+  
+
+ 
+  h4{
+    font-size:60px;
+    padding:0px;
+    margin-top:0px;
+    font-family:'Eczar', serif;
+    font-weight: 400; 
+    margin-bottom:0px;
+  }
+
+  hr {
+    visibility: hidden;
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 20%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
 }
 
-p {
-  font-family: verdana;
-  font-size: 20px;
+p{
+  position: relative;
+  bottom:50px;
+  font-family: 'Qwigley', cursive;
+  font-size: 30px;
+ }
+body{ 
+width: 100;
+background-color: white;
+margin-top:0px;
+margin-bottom:0px;
+margin-left:0px;
+margin-right:0px;
+margin: 300 auto 300 auto;
+box-sizing: border-box; 
+text-align: center; 
+position: relative;
+} 
+
+navbar{
+  
+  list-style-type: none;
+  padding-top:0px;
+  margin-bottom:0px;
+  margin-top:0px;
+  margin-right: 0%;
+  color: white;
+  font-size: 10px;
+  font-family: monospace;
+  size: 500px; 
+  background-color: black; 
+
 }
-</style>
-</head>
-<body>
-</body>
-</html>
+
+.navbar {
+height:auto; 
+width: auto;
+background-color: black; 
+display: inline;
+}
+.item-0{ 
+  width:100px;
+  display: flex;
+  justify-items:right; 
+  float: left;
+  } 
+
+/*.item-1 {
+  height: -30px;
+    width: auto;
+    background-color: black;
+    color: white;
+    display: absolute; 
+    top:0px; 
+    margin: 0px;
+    padding: 0px;
+    font-size: 40px;
+    justify-content: right;
+  text-decoration: none;
+  position: relative;
+  top:0px;
+} */ 
+
+.item-2{
+    margin: 0 0px 0 0;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: right;
+  text-decoration: none;  
+  font-size: 25px;
+  
+}
+.navbar_items{ 
+
+color: white;
+background-color: black;
+} 
+
+.navbar-0{
+display:flex;
+margin-top:0px;
+margin-right:0px;
+justify-content: left; 
+background-color: black;
+color: white;
+} 
+
+.text {
+  color: white;
+}
+
+
+img{
+float:below;
+}
+
+.site-footer{
+list-style: none;
+background-color: white;
+
+}
+
+.site-footer {
+  background-color: white;
+    text-align: center;
+    margin:0px;
+    padding:0px;  
+    display: flex;
+    justify-content:space-around;
+   }
+   
+
+
+#social-wrapper {
+    text-align: center;
+}
+
+
+.social-wrapper ul li {
+    display: inline;
+    margin: 10px 20px;
+}
+
+.instagram-icon {
+ 
+  height: 40px;
+  width: 40px;
+   }
+
+.linkedin-icon,
+.facebook-icon,
+.youtube-icon {
+    height: 50%;
+    margin-top: 0px;
+    width: 50%;
+    opacity: .6;
+  } 
+ 
+
+
+  .List {
+    display: flex;
+    justify-items: space-evenly;
+    max-width: 90px;
+  }
+  
+
+
